@@ -61,6 +61,10 @@
     "xmws4": {
       "version": "4.0.1",
       "file_name": "downloads/xrphoto-v4-0-1.rpk"
+    },
+    "xmb10p": {
+      "version": "4.0.1",
+      "file_name": "downloads/xrphoto-v4-0-1.rpk"
     }
   },
   "ext": {}
