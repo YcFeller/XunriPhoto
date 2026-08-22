@@ -3,9 +3,9 @@
     "id": "com.xunripic.watch",
     "restype": "quick_app",
     "name": "Xr图库",
-    "description": "Xr图库，米环图库应用新方向，多端互通，智能管理，让每一张照片都触手可及。\n下单地址：https://wear.xunrix.com/shop\n当前版本：V4.0.1，最新版请以更新发布页为准！\n资源发布：https://pic.xunrix.com/share",
+    "description": "Xr图库，米环图库应用新方向，多端互通，智能管理，让每一张照片都触手可及。\n下单地址：https://wear.xunrix.com/shop\n当前版本：V4.0.1 ；请尽快更新版本，最新以官方发布页为准~\n资源发布页：pic.xunrix.com/share",
     "preview": [
-      "fangx.png",
+      "media/方形宣发图 3.png",
       "Band10-2026-02-09-21-40-51.png",
       "RedWatch-2026-02-09-21-15-01.png",
       "RedWatch-2026-02-09-21-42-47.png",
@@ -28,9 +28,9 @@
       "icon": "house"
     },
     {
-      "title": "图库站点",
+      "title": "寻日图库",
       "url": "https://pic.xunrix.com/",
-      "icon": "Upload"
+      "icon": "CloudArrowUp"
     },
     {
       "title": "资源获取",
@@ -68,6 +68,10 @@
       "file_name": "downloads/xrphoto-v4-0-1.rpk"
     },
     "xmb10p": {
+      "version": "4.0.1",
+      "file_name": "downloads/xrphoto-v4-0-1.rpk"
+    },
+    "xmws5": {
       "version": "4.0.1",
       "file_name": "downloads/xrphoto-v4-0-1.rpk"
     }
