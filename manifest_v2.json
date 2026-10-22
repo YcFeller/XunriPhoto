@@ -3,7 +3,7 @@
     "id": "com.xunripic.watch",
     "restype": "quick_app",
     "name": "Xr图库",
-    "description": "Xr图库，米环图库应用新方向，多端互通，智能管理，让每一张照片都触手可及。\n下单地址：https://wear.xunrix.com/shop\n当前版本：V4.0.1 ；请尽快更新版本，最新以官方发布页为准~\n资源发布页：pic.xunrix.com/share",
+    "description": "Xr图库，米环图库应用新方向，多端互通，智能管理，让每一张照片都触手可及。\n下单地址：https://wear.xunrix.com/shop\n当前版本：V4.1.0 ；请尽快更新版本，最新以官方发布页为准~\n资源发布页：pic.xunrix.com/share",
     "preview": [
       "media/方形宣发图 3.png",
       "Band10-2026-02-09-21-40-51.png",
@@ -30,50 +30,69 @@
     {
       "title": "寻日图库",
       "url": "https://pic.xunrix.com/",
-      "icon": "CloudArrowUp"
+      "icon": "cloud-arrow-up"
     },
     {
       "title": "资源获取",
       "url": "https://pic.xunrix.com/share",
-      "icon": "Download"
+      "icon": "download"
     }
   ],
   "downloads": {
     "xmb9p": {
-      "version": "4.0.1",
-      "file_name": "downloads/xrphoto-v4-0-1.rpk"
+      "version": "4.1.0",
+      "file_name": "downloads/XunriPic-Watch-4.1.0-109-release-jsc.rpk",
+      "versionCode": 109
     },
     "xmb10": {
-      "version": "4.0.1",
-      "file_name": "downloads/xrphoto-v4-0-1.rpk"
+      "version": "4.1.0",
+      "file_name": "downloads/XunriPic-Watch-4.1.0-109-release-jsc.rpk",
+      "versionCode": 109
     },
     "xmb10nfc": {
-      "version": "4.0.1",
-      "file_name": "downloads/xrphoto-v4-0-1.rpk"
+      "version": "4.1.0",
+      "file_name": "downloads/XunriPic-Watch-4.1.0-109-release-jsc.rpk",
+      "versionCode": 109
     },
     "xmrw5": {
-      "version": "4.0.1",
-      "file_name": "downloads/xrphoto-v4-0-1.rpk"
+      "version": "4.1.0",
+      "file_name": "downloads/XunriPic-Watch-4.1.0-109-release-jsc.rpk",
+      "versionCode": 109
     },
     "xmrw5xring": {
-      "version": "4.0.1",
-      "file_name": "downloads/xrphoto-v4-0-1.rpk"
+      "version": "4.1.0",
+      "file_name": "downloads/XunriPic-Watch-4.1.0-109-release-jsc.rpk",
+      "versionCode": 109
     },
     "xmrw6": {
-      "version": "4.0.1",
-      "file_name": "downloads/xrphoto-v4-0-1.rpk"
+      "version": "4.1.0",
+      "file_name": "downloads/XunriPic-Watch-4.1.0-109-release-jsc.rpk",
+      "versionCode": 109
     },
     "xmws4": {
-      "version": "4.0.1",
-      "file_name": "downloads/xrphoto-v4-0-1.rpk"
+      "version": "4.1.0",
+      "file_name": "downloads/XunriPic-Watch-4.1.0-109-release-jsc.rpk",
+      "versionCode": 109
     },
     "xmb10p": {
-      "version": "4.0.1",
-      "file_name": "downloads/xrphoto-v4-0-1.rpk"
+      "version": "4.1.0",
+      "file_name": "downloads/XunriPic-Watch-4.1.0-109-release-jsc.rpk",
+      "versionCode": 109
     },
     "xmws5": {
-      "version": "4.0.1",
-      "file_name": "downloads/xrphoto-v4-0-1.rpk"
+      "version": "4.1.0",
+      "file_name": "downloads/XunriPic-Watch-4.1.0-109-release-jsc.rpk",
+      "versionCode": 109
+    },
+    "xmb11": {
+      "version": "4.1.0",
+      "file_name": "downloads/XunriPic-Watch-4.1.0-109-release-jsc.rpk",
+      "versionCode": 109
+    },
+    "xmb11nfc": {
+      "version": "4.1.0",
+      "file_name": "downloads/XunriPic-Watch-4.1.0-109-release-jsc.rpk",
+      "versionCode": 109
     }
   },
   "ext": {}
